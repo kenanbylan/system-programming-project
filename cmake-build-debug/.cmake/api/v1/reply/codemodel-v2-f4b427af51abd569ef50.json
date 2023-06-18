@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProjectSystemfiles",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectSystemfiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectSystemfiles-Debug-703056669b6c043953bd.json",
+					"name" : "ProjectSystemfiles",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/ProjectSystemfiles/cmake-build-debug",
+		"source" : "/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/ProjectSystemfiles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
